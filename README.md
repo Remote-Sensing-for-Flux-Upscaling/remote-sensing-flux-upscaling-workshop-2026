@@ -37,7 +37,7 @@ David Durden (National Ecological Observatory Network)
 ## Hands-on Tutorial
 ### Topic 1: Introduction to Remote Sensing Data Gathering  
 #### GEE data gathering
-This tutorial provides an introduction on using Colab notebooks with google Earth engine pyhton library to gather and process remote sensing (RS) data:
+This tutorial provides an introduction to using Colab notebooks with Google Earth Engine Python library to gather and process remote sensing (RS) data:
 - How to collect RS data using Google Earth Engine (GEE) and Colab (Python API)
 - How to process the data using practical codes, covering key steps such as:
     - Calculating vegetation indices
@@ -47,7 +47,7 @@ This tutorial provides an introduction on using Colab notebooks with google Eart
     - Visualize hyperspectral and LiDAR data from acquired by NEON AOP
 
 #### Reading public ALIVE data
-This tutorial provides an introduction to the Advanced Baseline Imager Live Imaging of Vegetated Ecosystems (ALIVE) workflow, which uses zarr libraries created using Icechunk by earthmover. ALIVE provides estimates of carbon fluxes in real time using geostationary "weather" satellites, especially GOES-R (the Geostationary Operational Environmental Satellite - R Series). To learn more on ALIVE, visit their [GitHub page](https://alive-abi.github.io/alive/index.html).
+This tutorial provides an introduction to the Advanced Baseline Imager Live Imaging of Vegetated Ecosystems (ALIVE) workflow and the use of zarr libraries created using Icechunk by earthmover, which allows for cloud-optimized geospatial processing. ALIVE provides estimates of carbon fluxes in real time using geostationary "weather" satellites, especially GOES-R (the Geostationary Operational Environmental Satellite - R Series). To learn more about ALIVE, visit their [GitHub page](https://alive-abi.github.io/alive/index.html).
 
 ### Topic 2: Interfacing flux Scaling Approaches Across Space and Time
 This tutorial will investigate datasets from the BenchFlux working group (www.benchflux.org) to see how different approaches ranging from direct flux observations to global knowledge-guided models capture NEE fluxes.
@@ -72,6 +72,6 @@ PIs (David Durden (Battelle – NEON); Stefan Metzger (AtmoFacts); Nicola Falco 
 By acknowledging this repository and its contributors, you help to promote transparency, reproducibility, and recognition of the work that has gone into creating this resource.
 
 ## License
-See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md) file for licensing.
+See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md).
 
 
