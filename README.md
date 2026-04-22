@@ -19,7 +19,7 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 - Recordings of the sessions are available on the [event] page .  
 
 ## Workshop Organizing Committee
-David Durden (National Ecological Observatory Network)  \\
+David Durden (National Ecological Observatory Network)  //
 Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
 
 Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
