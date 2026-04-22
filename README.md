@@ -35,19 +35,18 @@ David Durden (National Ecological Observatory Network)
 
 
 ## Hands-on Tutorial
-### Topic 1: From site-scale ...   
-Creators: Nicola Falco (nicolafalco@lbl.gov), David Durden (ddurden@battelleecology.org), Stefan Metzger (smetzger@atmofacts.com)  
-
-This topic focuses on site-scale analysis using remote sensing (RS) data:
+### Topic 1: Introduction to Remote Sensing Data Gathering  
+#### GEE data gathering
+This topic provides an introduction on using Colab notebooks with google Earth engine pyhton library to gather and process remote sensing (RS) data:
 - How to collect RS data using Google Earth Engine (GEE) and Colab (Python API)
 - How to process the data using practical codes, covering key steps such as:
     - Calculating vegetation indices
     - Visualizing data as maps
     - Extracting time-series information
     - Conducting quality assessment (QA)
-    - Comparing RS time-series with tower flux data (Net Ecosystem Exchange, NEE)
-    - Aggregating RS and flux time-series data
-    - Modeling the relationship between vegetation indices and NEE using a linear model.
+    - Visualize hyperspectral and LiDAR data from acquired by NEON AOP
+#### Reading public ALIVE data
+
 
 ### Topic 2: ... over regional-scale connectivity ...
 Creators: Nicola Falco (nicolafalco@lbl.gov), David Durden (ddurden@battelleecology.org), Stefan Metzger (smetzger@atmofacts.com)  
