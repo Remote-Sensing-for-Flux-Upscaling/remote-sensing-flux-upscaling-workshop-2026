@@ -19,16 +19,16 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 - Recordings of the sessions are available on the [event] page .  
 
 ## Workshop Organizing Committee
-David Durden (National Ecological Observatory Network)
+David Durden (National Ecological Observatory Network)  
 Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
-Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
+Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)   
 Adam Young (National Ecological Observatory Network)  
-Chris Florian (National Ecological Observatory Network) 
-David Moore (The university of Arizona)
-Housen Chu (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
-Leila Hernandez-Rodriguez (Lawrence Berkeley National Laboratory)  
-Samuel Bower (AtmoFacts, Carbon Dew Community of Practice)  
-Yanghui Kang (Virginia Tech)
+Chris Florian (National Ecological Observatory Network)  
+David Moore (The university of Arizona)  
+Housen Chu (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)   
+Leila Hernandez-Rodriguez (Lawrence Berkeley National Laboratory)   
+Samuel Bower (AtmoFacts, Carbon Dew Community of Practice)   
+Yanghui Kang (Virginia Tech)   
 
 ### Coordinator
 David Durden (National Ecological Observatory Network)  
