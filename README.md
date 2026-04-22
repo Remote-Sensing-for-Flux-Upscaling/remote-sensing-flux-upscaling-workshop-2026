@@ -15,21 +15,21 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 
 ### External Resorces 
 - Workshop report [here]()
-- Datasets created and used in the hands-on session can be found [here]((https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing).
+- Datasets created and used in the hands-on session can be found [here](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing).
 - Recordings of the sessions are available on the [event] page .  
 
-## Workshop PIs
-
 ## Workshop Organizing Committee
+David Durden (National Ecological Observatory Network)  
+Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
+Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
 Adam Young (National Ecological Observatory Network)  
 Chris Florian (National Ecological Observatory Network) 
-David Durden (National Ecological Observatory Network)  
 David Moore (The university of Arizona)
 Housen Chu (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
 Leila Hernandez-Rodriguez (Lawrence Berkeley National Laboratory)  
-Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
+
 Samuel Bower (AtmoFacts, Carbon Dew Community of Practice)  
-Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
+
 Yanghui Kang (Virginia Tech)
 
 ### Coordinator
