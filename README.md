@@ -61,16 +61,17 @@ This tutorial provides hands-on experience in using large-scale Earth Observatio
 - Compare the impact of model scale (300M vs 600M) and architecture type (foundation vs tree-based)
 
 ## Acknowledgments
-### Workshop report
+### Workshop report and tutorial
 This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original (this) repository and contributors. If you use any of the content discussed in the workshop report or hands-on tutorial, please cite the following document.
 - report citation to be added
 
+### Funding
+NSF Award 2532339 “Conference: Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques”
+PIs (David Durden (Battelle – NEON); Stefan Metzger (AtmoFacts); Nicola Falco (LBNL – AMP))
 
 By acknowledging this repository and its contributors, you help to promote transparency, reproducibility, and recognition of the work that has gone into creating this resource.
 
 ## License
 See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md) file for licensing.
 
-## Funding acknowledgements
-NSF Award 2532339 “Conference: Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques”
-PIs (David Durden (Battelle – NEON); Stefan Metzger (AtmoFacts); Nicola Falco (LBNL – AMP))
+
