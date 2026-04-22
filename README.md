@@ -37,7 +37,7 @@ David Durden (National Ecological Observatory Network)
 ## Hands-on Tutorial
 ### Topic 1: Introduction to Remote Sensing Data Gathering  
 #### GEE data gathering
-This topic provides an introduction on using Colab notebooks with google Earth engine pyhton library to gather and process remote sensing (RS) data:
+This tutorial provides an introduction on using Colab notebooks with google Earth engine pyhton library to gather and process remote sensing (RS) data:
 - How to collect RS data using Google Earth Engine (GEE) and Colab (Python API)
 - How to process the data using practical codes, covering key steps such as:
     - Calculating vegetation indices
@@ -45,41 +45,26 @@ This topic provides an introduction on using Colab notebooks with google Earth e
     - Extracting time-series information
     - Conducting quality assessment (QA)
     - Visualize hyperspectral and LiDAR data from acquired by NEON AOP
+
 #### Reading public ALIVE data
+This tutorial 
 
+### Topic 2: Interfacing flux Scaling Approaches Across Space and Time
+This tutorial will investigate datasets from the BenchFlux working group (www.benchflux.org) to see how different approaches ranging from direct flux observations to global knowledge-guided models capture NEE fluxes.
 
-### Topic 2: ... over regional-scale connectivity ...
-Creators: Nicola Falco (nicolafalco@lbl.gov), David Durden (ddurden@battelleecology.org), Stefan Metzger (smetzger@atmofacts.com)  
-
-In Topic 2 of this tutorial, we explore regional-scale connectivity by:
-- Applying the linear model developed in Topic 1 to estimate Net Ecosystem Exchange (NEE) over a small region, using a straightforward analysis approach
-- Utilizing high-frequency flux spatialization to investigate additional factors influencing NEE in space, time, and process.
-
-### Topic 3: ... to continental-scale connectivity
-Creators: Danielle Losos (losos@wisc.edu), Paul Stoy (pcstoy@wisc.edu), Avanti Kekane (avkekane@wisc.edu), Sophie Hoffman (shoffman22@wisc.edu), Sadegh Ranjbar (sranjbar@wisc.edu), Ryan Abernathey (ryan@earthmover.io)  
-
-In Topic 3, we scale up to continental connectivity by introducing the Advanced Baseline Imager Live Imaging of Vegetated Ecosystems ([ALIVE](https://alive-abi.github.io/alive/index.html)) workflow that we call 'ALIVE<sub>GPP</sub>', also described in this [google slides presentation](https://docs.google.com/presentation/d/1PJclqluGFHkp9LpHZ85_pgL8lFLLaAMsQcEGZ2DIGSU/edit#slide=id.p1) that was created for the workshop. The tutorial covers:
-- How to work with [zarr](https://zarr.dev/) libraries created using [Icechunk](https://icechunk.io/en/latest/overview/#docs-organization) by [earthmover](https://earthmover.io/). We will use a zarr library that contains [Gross Primary Productivity (GPP) estimates](https://alive-abi.github.io/alive/daily-GPP.html) from the ALIVE worksflow.
-- Leveraging data from the [Advanced Baseline Imager](https://www.goes-r.gov/spacesegment/abi.html) on the [Geostationary Operational Environmental Satellites - R Series (GOES-R)](https://www.goes-r.gov/) to create ALIVE<sub>GPP</sub> for pixels that contain Ameriflux and NEON, Inc. towers as described in [Losos et al. (2024)](https://www.nature.com/articles/s41597-024-03071-z)
-- Using a machine learning model specifically a gradient boosting model described in [Ranjbar et al. (2024)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004341), to estimate GPP at the native temporal resolution of the ABI CONUS scene, every 5 minutes, as described in [Losos et al. (2025)](https://www.sciencedirect.com/science/article/pii/S0034425725001634).
+### Topic 3: Exploring AI Foundation Model Techniques for Carbon Flux Prediction
+This tutorial provides hands-on experience in using large-scale Earth Observation foundation models for GPP prediction and benchmarking their performance against classical machine learning approaches. Specifically, participants will:
+- Integrate 30m HLS imagery with 10 MERRA atmospheric variables
+- Fine-tune Prithvi-EO-2.0-300M-TL and Prithvi-EO-2.0-600M-TL for GPP prediction
+- Train Random Forest and XGBoost models on the same dataset
+- Evaluate predictive performance using the coefficient of determination (R²)
+- Compare the impact of model scale (300M vs 600M) and architecture type (foundation vs tree-based)
 
 ## Acknowledgments
 ### Workshop report
-If you use any of the content discussed in the workshop report or tutorial, please cite the following document.
-- Falco, Nicola, Durden, David, Metzger, Stefan, Stoy, Paul, Yi, Koong, Florian, Chris, & Barnes, Mallory (2024). Workshop Report: Remote Sensing and Fluxes Upscaling for Real-world Impact. https://doi.org/10.2172/3001093
+This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original (this) repository and contributors. If you use any of the content discussed in the workshop report or hands-on tutorial, please cite the following document.
+- report citation to be added
 
-### Hands-on Tutorial
-This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original repository and contributors.
-
-To acknowledge this repository, please cite it as follows:
-
-#### Topics 1 & 2:
-- Falco, Nicola, Metzger, Stefan, and Durden, David, "2024 Workshop - Remote Sensing and Fluxes Upscaling for Real-world Impact - Tutorial v1," (2025), https://doi.org/10.11578/dc.20251024.5
-
-#### Topic 3:
-- Losos, D., Hoffman, S. & Stoy, P.C. GOES-R land surface products at Western Hemisphere eddy covariance tower locations. Sci Data 11, 277 (2024). https://doi.org/10.1038/s41597-024-03071-z
-- Ranjbar, S., Losos, D., Hoffman, S., Cuntz, M., & Stoy, P. C. (2024). Using geostationary satellite observations and machine learning models to estimate ecosystem carbon uptake and respiration at half hourly time steps at eddy covariance sites. Journal of Advances in Modeling Earth Systems, 16, e2024MS004341. https://doi.org/10.1029/2024MS004341
-- Losos, D., Ranjbar, S., Hoffman, S., Abernathey, R., Desai, A. R., Otkin, J., Zhang, H., Ryu, Y., & Stoy, P. C. (2025). Rapid changes in terrestrial carbon dioxide uptake captured in near-real time from a geostationary satellite: The ALIVE framework. Remote Sensing of Environment, 324, 114759. https://doi.org/10.1016/j.rse.2025.114759
 
 By acknowledging this repository and its contributors, you help to promote transparency, reproducibility, and recognition of the work that has gone into creating this resource.
 
