@@ -47,7 +47,7 @@ This tutorial provides an introduction on using Colab notebooks with google Eart
     - Visualize hyperspectral and LiDAR data from acquired by NEON AOP
 
 #### Reading public ALIVE data
-This tutorial 
+This tutorial provides an introduction to the Advanced Baseline Imager Live Imaging of Vegetated Ecosystems (ALIVE) workflow, which uses zarr libraries created using Icechunk by earthmover. ALIVE provides estimates of carbon fluxes in real time using geostationary "weather" satellites, especially GOES-R (the Geostationary Operational Environmental Satellite - R Series). To learn more on ALIVE, visit their [GitHub page](https://alive-abi.github.io/alive/index.html).
 
 ### Topic 2: Interfacing flux Scaling Approaches Across Space and Time
 This tutorial will investigate datasets from the BenchFlux working group (www.benchflux.org) to see how different approaches ranging from direct flux observations to global knowledge-guided models capture NEE fluxes.
