@@ -1,13 +1,11 @@
-# Remote Sensing and Fluxes Upscaling for Real-world Impact workshop (March 2026) NEEDS TO BE UPDATED
+# Remote Sensing and Fluxes Upscaling for Real-world Impact: Integration with Advanced Techniques” workshop (March 2026) NEEDS TO BE UPDATED
 
 ## Introduction
 
-Understanding and scaling land-atmosphere fluxes remains one of the final frontiers in Earth system science. While flux networks like AmeriFlux and NEON have matured into cornerstones for in situ monitoring, spatial integration with remote sensing and modeling still lacks systematic workflows and common standards. This is especially the case for supporting practical applications in agriculture, forestry, and urban planning.  
-To address this challenge, the Flux Upscaling Working Group, led by members of AmeriFlux Management Project, NEON, and the Carbon Dew Community of Practice, brings together experts to advance the integration of flux and remote sensing data with the goal of developing a novel framework and define best practices that facilitate the effective use of these data sources.  
-The "Remote Sensing and Fluxes Upscaling for Real-world Impact" workshop was held in June 2024 at the Berkeley Lab, Ca. It brought together experts from various fields to discuss and address the challenges of integrating remote sensing and flux data across different spatiotemporal scales and applications. 
+The 2026 workshop built directly on the 2024 Berkeley meeting and shifted the series from conceptual articulation toward operational practice. The proposal emphasized five linked objectives: evaluating scalable flux-integration frameworks, strengthening scale matching in heterogeneous landscapes, training early-career scientists in open and cloud-based tools, bridging science with applications, and catalyzing cross-sector collaboration. 
 
-## 2024 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop
-This repository contains materials from the 2024 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop focused on analyzing and integrating remote sensing and flux data using Jupyter Notebooks. The workshop featured a series of presentations, which are outlined in the agenda included in this repository. 
+## 2026 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop
+This repository contains materials from the 2026 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop focused on analyzing and integrating remote sensing and flux data using Jupyter Notebooks. The workshop featured a series of presentations, which are outlined in the agenda included in this repository. 
 
 The repository is organized as follows:
 - **Hands-on Tutorial**: A collection of Jupyter notebooks providing tutorials and examples for working with remote sensing and flux data, designed to be run on Google Colab.
@@ -16,22 +14,27 @@ The repository is organized as follows:
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
 ### External Resorces 
-- Workshop report [here](https://www.osti.gov/biblio/3001093)
-- Datasets created and used in the hands-on session can be found [here](https://drive.google.com/file/d/1WyAYDHvut789H-oEbO6Lm-ObKP1wlbM5/view?usp=sharing).
-- Recordings of the sessions are available on the [event](https://go.lbl.gov/vy35rp) page of the Ameriflux web portal.  
+- Workshop report [here]()
+- Datasets created and used in the hands-on session can be found [here]((https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing).
+- Recordings of the sessions are available on the [event] page .  
 
-## Workshop Steering Committee
-Nicola Falco (Lawrence Berkeley National Laboratory)  
-Koong Yi (Lawrence Berkeley National Laboratory)  
-Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
+## Workshop PIs
+
+## Workshop Organizing Committee
+Adam Young (National Ecological Observatory Network)  
+Chris Florian (National Ecological Observatory Network) 
 David Durden (National Ecological Observatory Network)  
-Chris Florian (National Ecological Observatory Network)  
-Paul Stoy (Univ. of Wisconsin-Madison)  
-Mallory Barnes (Indiana University)  
-Gavin McNicol (Univ. of Illinois Chicago)  
+David Moore (The university of Arizona)
+Housen Chu (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
+Leila Hernandez-Rodriguez (Lawrence Berkeley National Laboratory)  
+Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
+Samuel Bower (AtmoFacts, Carbon Dew Community of Practice)  
+Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)  
+Yanghui Kang (Virginia Tech)
 
 ### Coordinator
-Christin Buechner (Lawrence Berkeley National Laboratory)
+David Durden (National Ecological Observatory Network)  
+
 
 ## Hands-on Tutorial
 ### Topic 1: From site-scale ...   
@@ -85,3 +88,7 @@ By acknowledging this repository and its contributors, you help to promote trans
 
 ## License
 See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md) file for licensing.
+
+## Funding acknowledgements
+NSF Award 2532339 “Conference: Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques”
+PIs (David Durden (Battelle – NEON); Stefan Metzger (AtmoFacts); Nicola Falco (LBNL – AMP))
