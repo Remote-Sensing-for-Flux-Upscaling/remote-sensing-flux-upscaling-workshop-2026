@@ -1,1 +1,1 @@
-# Workshop-2026-Remote-Sensing-and-Fluxes-Upscaling-
+# Remote Sensing and Fluxes Upscaling for Real-world Impact' workshop (March 2026)
