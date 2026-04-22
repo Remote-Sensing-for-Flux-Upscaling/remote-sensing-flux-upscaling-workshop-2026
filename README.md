@@ -4,7 +4,7 @@
 
 The 2026 workshop built directly on the 2024 Berkeley meeting and shifted the series from conceptual articulation toward operational practice. The proposal emphasized five linked objectives: evaluating scalable flux-integration frameworks, strengthening scale matching in heterogeneous landscapes, training early-career scientists in open and cloud-based tools, bridging science with applications, and catalyzing cross-sector collaboration. 
 
-## 2026 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop
+## This Repository
 This repository contains materials from the 2026 Remote Sensing and Fluxes Upscaling for Real-world Impact workshop focused on analyzing and integrating remote sensing and flux data using Jupyter Notebooks. The workshop featured a series of presentations, which are outlined in the agenda included in this repository. 
 
 The repository is organized as follows:
