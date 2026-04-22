@@ -83,5 +83,5 @@ To acknowledge this repository, please cite it as follows:
 
 By acknowledging this repository and its contributors, you help to promote transparency, reproducibility, and recognition of the work that has gone into creating this resource.
 
-## License and Copyright
-See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md) files for licensing.
+## License
+See [License](https://github.com/Remote-Sensing-for-Flux-Upscaling/remote-sensing-flux-upscaling-workshop-2026/edit/main/README.md#:~:text=Presentations-,LICENSE,-README.md) file for licensing.
