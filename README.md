@@ -14,9 +14,10 @@ The repository is organized as follows:
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
 ### External Resorces 
-- Workshop report [here]()
-- Datasets created and used in the hands-on session can be found [here](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing).
-- Recordings of the sessions are available on the [event] page .  
+- [Workshop report](TBD)
+- Posters can be found on our [Zenodo comunity page](https://zenodo.org/communities/remote-sensing-and-flux-upscaling-community/records?q=&l=list&p=1&s=10&sort=newest)
+- [Datasets](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing)created and used in the hands-on session.
+- Recordings of the sessions [TBD]
 
 ## Workshop Organizing Committee
 David Durden (National Ecological Observatory Network)  
