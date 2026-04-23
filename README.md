@@ -20,7 +20,7 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 - Recordings of the sessions [TBD]
 
 ## Workshop Organizing Committee
-David Durden (National Ecological Observatory Network)  
+David Durden (National Ecological Observatory Network, Battelle)  
 Nicola Falco (Lawrence Berkeley National Laboratory - AmeriFlux Management Project)  
 Stefan Metzger (AtmoFacts, Carbon Dew Community of Practice)   
 Adam Young (National Ecological Observatory Network)  
@@ -32,7 +32,7 @@ Samuel Bower (AtmoFacts, Carbon Dew Community of Practice)
 Yanghui Kang (Virginia Tech)   
 
 ### Coordinator
-David Durden (National Ecological Observatory Network)  
+David Durden (National Ecological Observatory Network, Battelle)  
 
 
 ## Hands-on Tutorial
@@ -63,7 +63,7 @@ This tutorial provides hands-on experience in using large-scale Earth Observatio
 
 ## Acknowledgments
 ### Workshop report and tutorial
-This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original (this) repository and contributors. If you use any of the content discussed in the workshop report or hands-on tutorial, please cite the following document.
+This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original (this) repository and contributors. If you use any of the content discussed in the workshop report or hands-on tutorial, please cite the following document. This material is based in part upon work supported by the National Ecological Observatory Network (NEON), a program sponsored by the U.S. National Science Foundation (NSF) and operated under cooperative agreement by Battelle.
 - report citation to be added
 
 ### Funding
