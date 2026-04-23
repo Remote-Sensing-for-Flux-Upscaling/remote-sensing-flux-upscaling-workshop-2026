@@ -16,7 +16,7 @@ To run the notebooks, simply open them in Google Colab and follow the instructio
 ### External Resorces 
 - [Workshop report](TBD)
 - Posters can be found on our [Zenodo comunity page](https://zenodo.org/communities/remote-sensing-and-flux-upscaling-community/records?q=&l=list&p=1&s=10&sort=newest)
-- [Datasets](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing)created and used in the hands-on session.
+- [Datasets](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing) created and used in the hands-on session.
 - Recordings of the sessions [TBD]
 
 ## Workshop Organizing Committee
