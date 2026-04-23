@@ -1,4 +1,4 @@
-# 2nd Workshop: "Remote Sensing and Fluxes Upscaling for Real-world Impact: Integration with Advanced Techniques” (March 2026) NEEDS TO BE UPDATED
+# 2nd Workshop: "Remote Sensing and Fluxes Upscaling for Real-world Impact: Integration with Advanced Techniques” (March 2026) 
 
 ## Introduction
 
