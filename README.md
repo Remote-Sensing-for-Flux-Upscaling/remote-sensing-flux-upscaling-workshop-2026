@@ -14,12 +14,9 @@ The repository is organized as follows:
 To run the notebooks, simply open them in Google Colab and follow the instructions. This repository aims to provide a resource for participants and others interested in learning about remote sensing and flux data analysis and integration.
 
 ### External Resorces 
-- [Workshop report][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19767226.svg)](https://doi.org/10.5281/zenodo.19767226)
-
-
+- [Workshop report](https://doi.org/10.5281/zenodo.19767226)
 - Posters can be found on our [Zenodo comunity page](https://zenodo.org/communities/remote-sensing-and-flux-upscaling-community/records?q=&l=list&p=1&s=10&sort=newest)
 - [Datasets](https://drive.google.com/drive/folders/1OvxaLGMslmKTExFAZ1rs4xiznROQW4k5?usp=sharing) created and used in the hands-on session.
-- Recordings of the sessions [TBD]
 
 ## Workshop Organizing Committee
 David Durden (National Ecological Observatory Network, Battelle)  
@@ -66,7 +63,8 @@ This tutorial provides hands-on experience in using large-scale Earth Observatio
 ## Acknowledgments
 ### Workshop report and tutorial
 This tutorial was developed using resources and data from various sources. If you use this tutorial or modify it for your own research or educational purposes, please acknowledge the original (this) repository and contributors. If you use any of the content discussed in the workshop report or hands-on tutorial, please cite the following document. This material is based in part upon work supported by the National Ecological Observatory Network (NEON), a program sponsored by the U.S. National Science Foundation (NSF) and operated under cooperative agreement by Battelle.
-- report citation to be added
+
+*Durden, D., Falco, N., Metzger, S., Bower, S., Chu, H., Florian, C., Kang, Y., Moore, D. J., Hernandez Rodriguez, L., & Young, A. (2026). Conference: Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques. Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques, Boulder, CO. Zenodo. https://doi.org/10.5281/zenodo.19767226*
 
 ### Funding
 NSF Award 2532339 “Conference: Remote Sensing and Fluxes for Real-world Impact: Integration with Advanced Techniques”
